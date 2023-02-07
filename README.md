@@ -1,6 +1,6 @@
 # Assignment 2
 ## CS1217 Operating Systems (Spring 2023)
-===
+---
 
 ### Setting up Git on your Virtual Machines
 
