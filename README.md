@@ -18,5 +18,3 @@ Make sure that you do this with the same GitHub Account that you're using to acc
 4. Run ```cd [DIRECTORY NAME]``` where ```[DIRECTORY NAME]``` is the name of the repository directory that you saw in Step 3.
 
 Those are all the cloned files. If you're using a Desktop Version of Ubuntu, you will be able to find this cloned folder in your Home directory. Use these files during the assignment. 
-
-The rest of the Assignment 2 instructions can be found [here](). 
