@@ -10,12 +10,12 @@ Follow the sections **Generating a new SSH key** and **Adding your SSH key to th
 
 Make sure that you do this with the same GitHub Account that you're using to access the assignment. 
 
-Finally, you will have to take one last step. Execute the following command on your Terminal:
+Finally, you will have to take one last step. Execute the following command on your Terminal (copy-paste this, because the placements of the apostrophes are important):
 
 ```
 echo "Host github.com
   Hostname ssh.github.com
-  Port 443" > ~/.ssh/config
+  Port 443" >> ~/.ssh/config
 ```
 
 ### Cloning this Repository
